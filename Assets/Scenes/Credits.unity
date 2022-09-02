@@ -472,8 +472,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "En juego, presionar Tecla \"Tab\" para volver al Men\xFA Principal.\nTratar
-    de sumar 20 puntos!\nPasando por el portal sum\xE1s 3 puntos.\nSi te qued\xE1s
-    esperando en la pared el traslado sum\xE1s 1."
+    de sumar 20 puntos!\nPasando por el portal sum\xE1s 1 punto.\nSi te qued\xE1s
+    esperando en la pared el traslado sum\xE1s 3."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
